@@ -1,1 +1,0 @@
-// function to fetch the data 
